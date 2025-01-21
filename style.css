@@ -63,7 +63,7 @@ nav {
  }
  header div {
    margin: 100px 0 0 80px;
-   color: white;
+   color: rgb(115, 250, 115);
  }
  header h2 {
    font-size: 48px;
@@ -74,7 +74,7 @@ nav {
    margin-bottom: 1.5rem;
  }
  header div a {
-   background-color: #51279b;
+   background-color: #070112;
    color: white;
    padding: 10px 20px;
    text-decoration: none;
